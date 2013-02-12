@@ -8,7 +8,7 @@ import scala.slick.profile.{SqlProfile, Capability}
 import scala.slick.compiler.CompilerState
 
 /**
- * Slick driver for H2.
+ * Slick driver for H2. deneme
  *
  * This driver implements the [[scala.slick.driver.ExtendedProfile]]
  * ''without'' the following capabilities:
